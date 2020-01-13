@@ -2,6 +2,8 @@
 Simple auto message broadcasting plugin for (Paper) Spigot  
 (I just made this in a couple of hours for a server and thought it might be useful for some people here)
 
+### Tested on MC 1.13.2 (might work on other versions)
+
 ### Features
 - **Simple, easy-to-use configuration**
 - Reload config command
