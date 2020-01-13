@@ -1,5 +1,5 @@
 # auto-broadcast
-Simple auto message broadcasting plugin for (Paper) Spigot
+Simple auto message broadcasting plugin for (Paper) Spigot  
 (I just made this in a few hours for a server and thought it might be useful for some people here)
 
 ### Features
