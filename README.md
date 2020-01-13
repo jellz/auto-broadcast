@@ -36,3 +36,5 @@ Reload the config with `/reloadbroadcasts`.
   
 ### Ideas
 - PlaceholderAPI support
+- Action bar / Titles
+- Permission checks
