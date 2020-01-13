@@ -31,6 +31,8 @@ broadcasts:
       - '&bThis broadcast takes up 3 lines!'
       - ' '
 ```
+
+Reload the config with `/reloadbroadcasts`.
   
 ### Ideas
 - PlaceholderAPI support
