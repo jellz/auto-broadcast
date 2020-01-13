@@ -1,0 +1,10 @@
+name: AutoBroadcast
+version: ${project.version}
+main: com.danielgulic.autobroadcast.AutoBroadcast
+api-version: 1.13
+authors: [jellz]
+commands:
+  reloadbroadcasts:
+    usage: /reloadbroadcasts
+    description: Reload AutoBroadcast config and broadcasts
+    permission: autobroadcast.reload

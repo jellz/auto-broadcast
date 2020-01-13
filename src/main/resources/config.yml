@@ -1,0 +1,12 @@
+broadcasts-enabled: true
+broadcast-interval: 3600 # ticks between each broadcast (default: 3 minutes)
+broadcasts:
+  test:
+    sound: BLOCK_NOTE_BLOCK_PLING # see https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html for a list of sounds, leave blank for no sound
+    messages:
+      - '&6Test broadcast!'
+  nosound:
+    messages:
+      - ' '
+      - '&bThis broadcast takes up 3 lines!'
+      - ' '
