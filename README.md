@@ -1,2 +1,2 @@
 # auto-broadcast
-Simple auto message broadcasting plugin for Spigot
+Simple auto message broadcasting plugin for (Paper) Spigot
